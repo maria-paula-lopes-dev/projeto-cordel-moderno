@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b500ff&height=120&section=header"/>
+
 # ✦ Cordel Moderno
 
 Projeto de estudo desenvolvido com **HTML5 e CSS3**, com foco na criação de **imagens de fundo com efeito parallax**, inspirado no estilo do cordel nordestino.
@@ -68,3 +70,5 @@ https://www.linkedin.com/in/maria-paula-lopes/
 
 ⌁ Email:  
 mariapaulalopessilva5@gmail.com
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b500ff&height=120&section=footer"/>
